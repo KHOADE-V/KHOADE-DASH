@@ -1,0 +1,5 @@
+[
+  { "nome": "Meu site", "tipo": "http", "url": "https://exemplo.com" },
+  { "nome": "API interna", "tipo": "http", "url": "http://localhost:5000/health" },
+  { "nome": "Banco de dados", "tipo": "tcp", "host": "localhost", "porta": 5432 }
+]
